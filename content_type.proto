@@ -1,8 +1,0 @@
-/**
- * Protocol Buffers schema for root content type.
- */
-
-syntax = "proto3";
-
-message RootContentType {
-}

@@ -1,2 +1,2 @@
-# link-root-type-schema
-Schema of the root content type.
+# link-root-mixin-schema
+Schema of the root mixin.

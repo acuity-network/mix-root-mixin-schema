@@ -1,0 +1,8 @@
+/**
+ * Protocol Buffers schema for root mixin.
+ */
+
+syntax = "proto3";
+
+message RootMixin {
+}
